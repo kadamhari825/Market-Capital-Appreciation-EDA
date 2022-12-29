@@ -2,7 +2,7 @@
 In this repo we will do Analysis on Market capital risen during pandemic in various companies across the globe. The data chosen for analysis is taken 
 from kaggle.
 
-## Hypothesis to validate:
+## Objective:
 Does investment happened in Pharma and E retail sector companies dominates the every other sector? because investors saw big poetential in COVID-19 vaccine makers such as AstraZeneca, Moderna, and Pfizer and consumer did all their buying from E retail sellers like Amazon.
 
 Along with that we will try to answer the following qeaestions also:
